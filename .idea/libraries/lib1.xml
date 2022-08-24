@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/jackson-databind-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/jackson-annotations-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/jackson-core-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/commons-codec-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/onlinemusic_war_exploded/WEB-INF/lib/javax.servlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
